@@ -1,72 +1,71 @@
 # privacy-policy.html
-
 Privacy Policy
 
 Effective Date: 29 November 2025
+App Name: NotePad
 
-This notes application (“App”) is developed and operated by the developer. The App is distributed through the Android app marketplace, including the Google Play Store.
+NotePad is a private, offline note-taking application made for Android devices and distributed via platforms including the Android app marketplace operated by Google Play Store.
 
-📌 Data Storage and Processing
+1. Data Storage & Privacy
 
-All notes, drawings, checklists, and locked/private notes are stored locally on your device.
+All notes, text, drawings, doodles, pinned notes, reminders, and locked notes are stored locally on the user’s device.
 
-The App does not collect, transmit, or share personal information to external servers.
+We do not collect, upload, transmit, track, or share any personal data to cloud servers or third-party services in the current version.
 
-The note lock feature uses device-based encryption/security, and the password or locked content never leaves your phone.
+Passwords used to lock notes are saved only on the device and never leave the phone.
 
-📌 Permissions We Use
+2. Permissions Used
 
-The App may request only essential device permissions to provide core functionality:
+The app may request minimal device permissions solely to enable local features:
 
 Permission	Purpose
-Storage Access	Save and read notes, images, and audio locally
-Notifications	Send reminders at scheduled times
-Alarm/Reminder Scheduling	Trigger reminder alerts even if the app is closed
-📌 Third-Party Services
+Notification Access	For sending reminder alerts
+Alarm/Reminder Scheduling	To run reminders if the app is closed or not active
+Local File Storage*	To save media (optional) and notes locally
 
-The following external services may be used only for optional or future features:
+*Storage is implicit/local and does not send data externally.
 
-OTP verification may be powered by MSG91 when enabling phone-based login.
+3. Security Measures
 
-In future updates, you may optionally choose to enable cloud notes sync using services like Firebase or other providers. Such features will be off by default, and no data is uploaded without user consent.
+Notes locked by the user are protected using device-based security/encryption.
 
-📌 App Category & Target Audience
+Lock credentials, reminder events, and note content are handled internally on the phone.
 
-App Category: Productivity / Notes
+4. No Third-Party SDKs
 
-Target Users: General audiences (3+ age group), students, and professionals.
+The app does not contain Ads, Analytics, or Tracking SDKs in the current release.
 
-📌 Content Responsibility
+No third parties have access to your notes or lock data.
 
-This application contains user-generated content only (notes and personal text created by you) and does not include pre-loaded articles, media, or external feeds.
+5. Content & Children Safety
 
-📌 Advertising and Analytics
+All content inside the app is user-generated only, created by the device owner or user.
 
-No personalized ads are used.
+The app is suitable for general audiences (Age 3+) and contains no preloaded external media or feeds.
 
-No tracking or analytics run in the current version.
+6. Future Changes
 
-📌 Security Practices
+If future updates introduce:
 
-We follow best practices recommended in:
+Cloud sync (e.g., Firebase)
 
-Android UI guidelines from Google.
+Ads (e.g., AdMob)
+You’ll be informed via in-app notice and this policy will be updated to reflect new data handling.
 
-Open-source icon safety standards from collections like:
+7. Contact Us
 
-Material Design Icons
-
-Lucide Icons (clean, lightweight icon reference)
-
-📌 Developer Contact & Support
-
-If you have any privacy-related concerns, feedback, or support requests, you may reach us at:
+For questions, feedback, or privacy concerns, reach:
 
 📧 Email: officialbookofer@gmail.com
 
-🌐 Website: [BookOfer.com](https://www.bookofer.com/) (for referral and support, no direct commerce)
-(You may replace this contact info any time if needed.)
+🌐 Website/Reference: [BookOfer.com](https://www.bookofer.com/)
 
-📌 Updates to this Policy
+8. User Consent
 
-As the App evolves, this privacy policy may be updated. Continued use of the application after updates means you accept the revised terms.
+Using NotePad means you understand and agree that:
+
+Notes remain on device
+
+No external data is collected
+
+Reminders and lock features run locally offline
